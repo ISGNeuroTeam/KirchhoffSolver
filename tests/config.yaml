@@ -1,0 +1,13 @@
+rest:
+  host: 192.168.1.1
+  port: 80
+  user: admin
+  password: "12345678"
+
+data:
+  path: E:\data
+
+well_mode:
+  labels_path: /opt/otp/lookups/labels.txt
+
+
